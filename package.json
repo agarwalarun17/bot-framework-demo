@@ -1,0 +1,23 @@
+{
+  "name": "botframeworkdemo",
+  "version": "1.0.0",
+  "description": "This Demo is made to showcase how bot framework works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarwalarun17/bot-framework-demo.git"
+  },
+  "author": "Arun Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agarwalarun17/bot-framework-demo/issues"
+  },
+  "homepage": "https://github.com/agarwalarun17/bot-framework-demo#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
